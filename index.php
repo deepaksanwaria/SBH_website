@@ -44,7 +44,7 @@
 							 <div class="sub_main">
 								<ul>
 									<li>Best</li>
-									<li>Tredy</li>
+									<li>Trendy</li>
 									<li>Efficent</li>									
 								</ul>
 							</div>
